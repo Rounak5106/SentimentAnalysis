@@ -1,0 +1,4 @@
+## Additional Documentation
+- `docs/model_details.md`: Detailed explanation of Naive Bayes and BERT models.
+- `docs/dataset_guide.md`: Information on the Sentiment140 dataset.
+- `docs/visualization_guide.md`: Guide to interpreting visualizations.
